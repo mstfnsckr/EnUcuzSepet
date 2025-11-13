@@ -20,5 +20,5 @@ Bu projeyi çalıştırmak için **.NET Runtime**'ın kurulu olması gerekmekted
 Projeyi yerel makinenize klonlayın:
 
 ```bash
-git clone <PROJE_REPO_ADRESİ>
+git clone [https://github.com/mstfnsckr/EnUcuzSepet](https://github.com/mstfnsckr/EnUcuzSepet)
 cd EnUcuzSepet
